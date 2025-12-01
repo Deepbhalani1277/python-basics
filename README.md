@@ -1,0 +1,3 @@
+https://docs.python.org/3/tutorial/datastructures.html  
+
+python methods for list dict tuple....
