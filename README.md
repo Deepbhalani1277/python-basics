@@ -5,4 +5,4 @@ exceptions:
 https://docs.python.org/3/library/exceptions.html
 
 os module:
-https://github.com/Deepbhalani1277/python-basics
+https://docs.python.org/3/library/os.html
