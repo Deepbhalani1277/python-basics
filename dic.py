@@ -29,6 +29,11 @@ ep2 = {
     222 : 67,
     566 : 90
     }
+# ep1.clear() #to clear dic 
 ep1.update(ep2)
+ep1.pop(122) # to remove one key value pair
+ep1.popitem() # will remove last pair from the dic
+# del ep2 #will delete entier dic 
+del ep2[566]
+print(ep2)
 print(ep1)
-
