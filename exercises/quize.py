@@ -27,6 +27,7 @@ money = 0
 for i in range(0, len(queations)):
     queation = queations[i]
     print(f"queation for rs. {levels[i]}")
+    print(queation[0])
     print(queation[1])
     print(queation[2])
     print(queation[3])
