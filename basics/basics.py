@@ -76,17 +76,18 @@ for cha in name:
 para = '''
 hi my name is deep
 i am 18 years old
-
 '''
 
 # print(st)
 
+'''
 print("")
 
 print(para)
-
+'''
 
 #string slicing 
+'''
 print(len(name))
 print(name[0:3])
 print(name[0:-3]) #if you write -3 it will take length of string than - that index from string
@@ -94,5 +95,25 @@ print(name[0:-3]) #if you write -3 it will take length of string than - that ind
 harry = "harry"
 print(harry[-4:-1])
 
+'''
 
 
+#difference between "is" and "=="   
+
+#"is" compares memory location 
+#and
+# "==" compares values
+
+'''
+a = [1, 2, 3]
+b = [1, 2, 3]
+
+print(a == b)   # True
+print(a is b)   # False
+'''
+
+'''
+a = b = [1, 2, 3]
+print(a is b)   # True
+print(a == b)   # True
+'''
