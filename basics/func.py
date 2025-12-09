@@ -97,3 +97,4 @@ result = reduce(lambda a, b: a + b, even_squares)
 print("Squares:", squares)
 print("Even Squares:", even_squares)
 print("Sum of Even Squares:", result)
+    
